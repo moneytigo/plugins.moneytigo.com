@@ -1,3 +1,5 @@
+### [<< Retour à la page précédente](/)
+
 ## Bienvenue dans la section "Plugins" du service MoneyTigo.com
 
 MoneyTigo.com est une solution de traitement des paiements par carte de crédit qui développe pour ses marchands des modules prêts à l'emploi pour un certain nombre de Shopping Cart (CMS).
