@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the "Plugins" section of MoneyTigo.com service
+
+MoneyTigo.com is a credit card payment processing solution that develops for its merchants ready-to-use modules for a number of Shopping Cart (CMS).
+
+You will find below the list of available extensions or modules:
+
 
 You can use the [editor on GitHub](https://github.com/moneytigo/plugins.moneytigo.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
